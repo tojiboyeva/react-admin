@@ -7,7 +7,7 @@ export default class Navbar extends Component {
     return (
       <div>
 <nav>
-  <div className=" max-w-[1100px] w-full flex mx-auto items-center justify-between px-6 my-[20px]">
+  <div className=" max-w-[1100px] w-full flex mx-auto items-center justify-between px-6 mt-[40px]">
 
 <img src={Logo} alt="" />
       <div className=" flex text-[16px] font-medium gap-[60px] ">
