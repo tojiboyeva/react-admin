@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Icon from './Group9.png'
 import Human from './pleased.png'
-import Circle from './Circle.png'
+
 
 
 export default class Header extends Component {
